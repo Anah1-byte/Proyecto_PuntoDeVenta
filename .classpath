@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-23">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="imagen">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-annotations-2.13.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-core-2.13.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-databind-2.13.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-dataformat-xml-2.13.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jackson-datatype-jsr310-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jcommon-1.0.24-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/poi-5.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/swingx-all-1.6.5-1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_4/libreria/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/itextpdf-5.5.13.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/poi-bin-5.2.3/auxiliary/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/poi-bin-5.2.3/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_2/libreria/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_6/libreria/icepdf-core-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_6/libreria/icepdf-viewer-7.2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Anahi/Downloads/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anahi/eclipse-workspace/punto_venta_4/libreria/poi-bin-5.2.3/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,138 @@
+ID_Venta,Fecha,Producto,Cantidad,Precio_Unitario,Total,Metodo_Pago
+81,2025-05-21 22:58:46,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,TARJETA
+81,2025-05-21 22:58:46,"Azucar",0,0.00,0.00,TARJETA
+80,2025-05-21 22:55:14,"Atun De Agua",0,0.00,0.00,TARJETA
+80,2025-05-21 22:55:14,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,TARJETA
+79,2025-05-21 22:51:05,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+79,2025-05-21 22:51:05,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+78,2025-05-21 22:44:13,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+78,2025-05-21 22:44:13,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+77,2025-05-21 22:38:27,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+77,2025-05-21 22:38:27,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+76,2025-05-21 22:30:21,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+76,2025-05-21 22:30:21,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+75,2025-05-21 22:27:20,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+75,2025-05-21 22:27:20,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+74,2025-05-21 22:25:01,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+74,2025-05-21 22:25:01,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+73,2025-05-21 22:16:02,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+73,2025-05-21 22:16:02,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+72,2025-05-21 22:05:30,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+72,2025-05-21 22:05:30,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+71,2025-05-21 21:59:08,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+71,2025-05-21 21:59:08,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+70,2025-05-21 21:44:48,"Azucar",0,0.00,0.00,EFECTIVO
+70,2025-05-21 21:44:48,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+69,2025-05-21 19:50:21,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,TARJETA
+68,2025-05-21 15:14:08,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,TARJETA
+68,2025-05-21 15:14:08,"Detergente Ariel 750 gr.",0,0.00,0.00,TARJETA
+67,2025-05-21 15:13:14,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,TARJETA
+67,2025-05-21 15:13:14,"Detergente Ariel 750 gr.",0,0.00,0.00,TARJETA
+66,2025-05-21 10:12:55,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,TARJETA
+66,2025-05-21 10:12:55,"Detergente Ariel 750 gr.",0,0.00,0.00,TARJETA
+65,2025-05-21 09:50:48,"Azucar",0,0.00,0.00,TARJETA
+65,2025-05-21 09:50:48,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,TARJETA
+64,2025-05-21 09:49:54,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+64,2025-05-21 09:49:54,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+63,2025-05-21 09:48:58,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+63,2025-05-21 09:48:58,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+62,2025-05-21 09:47:21,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+62,2025-05-21 09:47:21,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+61,2025-05-21 09:37:30,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+60,2025-05-21 09:23:03,"Azucar",0,0.00,0.00,EFECTIVO
+60,2025-05-21 09:23:03,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+59,2025-05-21 09:12:04,"Azucar",0,0.00,0.00,EFECTIVO
+59,2025-05-21 09:12:04,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+58,2025-05-21 07:54:38,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+58,2025-05-21 07:54:38,"Atun De Agua",0,0.00,0.00,EFECTIVO
+57,2025-05-21 07:44:59,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+57,2025-05-21 07:44:59,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+56,2025-05-21 00:26:49,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+56,2025-05-21 00:26:49,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+55,2025-05-21 00:21:24,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+55,2025-05-21 00:21:24,"Atun De Agua",0,0.00,0.00,EFECTIVO
+54,2025-05-21 00:11:22,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+54,2025-05-21 00:11:22,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+53,2025-05-21 00:08:39,"Atun De Agua",0,0.00,0.00,EFECTIVO
+53,2025-05-21 00:08:39,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+52,2025-05-21 00:05:54,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+52,2025-05-21 00:05:54,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+51,2025-05-21 00:04:27,"Azucar",0,0.00,0.00,EFECTIVO
+51,2025-05-21 00:04:27,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+50,2025-05-21 00:02:24,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+50,2025-05-21 00:02:24,"Atun De Agua",0,0.00,0.00,EFECTIVO
+49,2025-05-20 23:53:27,"Azucar",0,0.00,0.00,EFECTIVO
+49,2025-05-20 23:53:27,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+48,2025-05-20 23:47:33,"Azucar",0,0.00,0.00,EFECTIVO
+48,2025-05-20 23:47:33,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+47,2025-05-20 23:41:01,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+47,2025-05-20 23:41:01,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+46,2025-05-20 23:38:40,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+46,2025-05-20 23:38:40,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+45,2025-05-20 23:35:52,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+45,2025-05-20 23:35:52,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+44,2025-05-20 23:31:49,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+44,2025-05-20 23:31:49,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+43,2025-05-20 23:29:08,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+43,2025-05-20 23:29:08,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+42,2025-05-20 23:27:29,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+42,2025-05-20 23:27:29,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+41,2025-05-20 21:39:53,"Azucar",0,0.00,0.00,EFECTIVO
+40,2025-05-20 21:23:08,"Azucar",0,0.00,0.00,EFECTIVO
+39,2025-05-20 21:21:09,"Atun De Agua",0,0.00,0.00,EFECTIVO
+38,2025-05-20 20:31:19,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+37,2025-05-20 20:30:34,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+36,2025-05-20 20:28:27,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+35,2025-05-20 19:13:53,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+34,2025-05-20 19:12:29,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+34,2025-05-20 19:12:29,"Atun De Agua",0,0.00,0.00,EFECTIVO
+33,2025-05-20 19:08:53,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+32,2025-05-20 18:50:59,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+31,2025-05-20 18:48:40,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+31,2025-05-20 18:48:40,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+30,2025-05-20 18:41:23,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+30,2025-05-20 18:41:23,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+29,2025-05-20 18:31:52,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+29,2025-05-20 18:31:52,"Atun De Agua",0,0.00,0.00,EFECTIVO
+28,2025-05-20 18:18:53,"Atun De Agua",0,0.00,0.00,EFECTIVO
+28,2025-05-20 18:18:53,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+27,2025-05-20 18:15:40,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+27,2025-05-20 18:15:40,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+26,2025-05-20 18:12:41,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+26,2025-05-20 18:12:41,"Atun De Agua",0,0.00,0.00,EFECTIVO
+25,2025-05-20 18:09:15,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+25,2025-05-20 18:09:15,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+24,2025-05-20 18:05:54,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+24,2025-05-20 18:05:54,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+23,2025-05-20 18:02:48,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+23,2025-05-20 18:02:48,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+22,2025-05-20 17:59:19,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+22,2025-05-20 17:59:19,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+21,2025-05-20 17:58:32,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+21,2025-05-20 17:58:32,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+20,2025-05-20 16:26:37,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+20,2025-05-20 16:26:37,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+19,2025-05-20 16:24:10,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+19,2025-05-20 16:24:10,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+18,2025-05-20 16:22:51,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+18,2025-05-20 16:22:51,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+17,2025-05-20 16:14:19,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+17,2025-05-20 16:14:19,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+16,2025-05-20 14:28:24,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+16,2025-05-20 14:28:24,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+15,2025-05-20 00:37:38,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+15,2025-05-20 00:37:38,"Detergente Ariel 750 gr.",0,0.00,0.00,EFECTIVO
+14,2025-05-19 18:26:10,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+13,2025-05-18 16:24:16,"Detergente Ariel 750 gr.",0,0.00,0.00,TARJETA
+13,2025-05-18 16:24:16,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,TARJETA
+12,2025-05-17 17:17:07,"Detergente en Polvo ACE Limpieza Instantánea 756g",0,0.00,0.00,EFECTIVO
+12,2025-05-17 17:17:07,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+11,2025-05-17 15:22:43,"Agua Natural Pureza Vital 1 lt.",0,0.00,0.00,EFECTIVO
+11,2025-05-17 15:22:43,"Azucar",0,0.00,0.00,EFECTIVO
+11,2025-05-17 15:22:43,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+11,2025-05-17 15:22:43,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+10,2025-05-16 11:42:08,"Arroz Sushi Verde Valle Bolsa 1 Kg",0,0.00,0.00,EFECTIVO
+10,2025-05-16 11:42:08,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,EFECTIVO
+10,2025-05-16 11:42:08,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,EFECTIVO
+9,2025-05-15 19:45:47,"Yoghurt Bebible Lala Fresa 220g.",0,0.00,0.00,TARJETA
+9,2025-05-15 19:45:47,"Aceite Vegetal Nutrioli Puro de Soya 850ml",0,0.00,0.00,TARJETA
